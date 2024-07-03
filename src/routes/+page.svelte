@@ -23,7 +23,7 @@
 	<div class="flex gap-1.5">
 		{#each socials as social}
 			<a
-				href="/"
+				href={social.url}
 				class="flex size-8 items-center justify-center rounded-md bg-white/5 transition-all hover:-translate-y-0.5"
 			>
 				<svelte:component this={social.icon} size={16} />
