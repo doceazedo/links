@@ -37,7 +37,7 @@
 			class="flex w-full flex-col gap-2 rounded-xl bg-white/5 p-2 transition-all hover:-translate-y-0.5"
 		>
 			<figure
-				class="flex aspect-video w-full items-center justify-center rounded-md bg-[url(lhamaday-thumbnail.webp)] bg-cover text-white/75"
+				class="flex aspect-video w-full items-center justify-center rounded-md bg-[url(/lhamaday-thumbnail.webp)] bg-cover text-white/75"
 			>
 				<PlayCircleIcon />
 			</figure>
