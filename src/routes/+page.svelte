@@ -18,7 +18,7 @@
 </script>
 
 <div class="mx-auto flex w-full max-w-[32rem] flex-col items-center gap-6 p-6">
-	<img src="/logo.png" class="h-11 w-fit" alt="Logo DoceAzedo" />
+	<img src="/logo.png" class="h-11 w-auto" alt="Logo DoceAzedo" />
 
 	<div class="flex gap-1.5">
 		{#each socials as social}
