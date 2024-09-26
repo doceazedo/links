@@ -117,7 +117,7 @@
 					<input
 						readonly
 						bind:this={emailInput}
-						value="agridoce.fer@gmail.com"
+						value="mgmt@doceazedo.com"
 						class="rounded-md bg-slate-200 p-3 ring-blue-500"
 					/>
 					<button
